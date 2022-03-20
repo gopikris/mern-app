@@ -5,3 +5,5 @@ Sample file for the checking in. Nothing much!
 Test unstage Commit
 Commit -a updates without uncomment in the file 
 track change
+
+Commit change 1
