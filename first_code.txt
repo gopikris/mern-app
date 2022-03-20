@@ -7,3 +7,5 @@ Commit -a updates without uncomment in the file
 track change
 
 Commit change 1
+
+Commit change 2 for fix 2
