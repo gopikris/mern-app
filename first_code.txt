@@ -2,4 +2,5 @@ Sample file for the checking in. Nothing much!
 
 2nd Commit through VS Code
 
-Test unstage command
+Test unstage Commit
+Commit -a updates changes 
